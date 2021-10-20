@@ -12,6 +12,8 @@ $ pip install bs4
 
 $ pkg install git
 
+$ pkg install python
+
 $ git clone https://github.com/bngky/univ
 
 $ cd univ
@@ -36,6 +38,6 @@ contact via whatsapp: <a href="https://wa.me/6282249945247/" target="_blank">cli
 
 ```
 
-All Member FCI
+FREE NET INDO
 
 ```
