@@ -12,8 +12,6 @@ $ pip install bs4
 
 $ pkg install git
 
-$ pkg install python
-
 $ git clone https://github.com/bngky/univ
 
 $ cd univ
