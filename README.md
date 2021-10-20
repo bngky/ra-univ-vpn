@@ -14,9 +14,9 @@ $ pkg install git
 
 $ git clone https://github.com/bngky/ra-univ-vpn
 
-$ cd 
+$ cd ra-univ-vpn
 
-$ python hey.py
+$ python zha.py
 
 ```
 
