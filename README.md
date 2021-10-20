@@ -26,7 +26,7 @@ Click to YouTube: <a href="https://youtube.com/channel/UCwWSZfAZcKGDormoZ5Y0Yhg/
 
 # NOT WORK?
 
-contact via whatsapp: <a href="https://wa.me/6282249945247/" target="_blank">click to whatsapp</a>
+contact via whatsapp: <a href="https://wa.me/6288704774180/" target="_blank">click to whatsapp</a>
 
 # SCREENSHOT
 
