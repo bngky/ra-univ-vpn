@@ -12,9 +12,9 @@ $ pip install bs4
 
 $ pkg install git
 
-$ git clone https://github.com/bngky/univ
+$ git clone https://github.com/bngky/ra-univ-vpn
 
-$ cd univ
+$ cd 
 
 $ python hey.py
 
@@ -30,7 +30,7 @@ contact via whatsapp: <a href="https://wa.me/6282249945247/" target="_blank">cli
 
 # SCREENSHOT
 
-![ss](https://github.com/bngky/univ/blob/main/Screenshot_2021_0531_083106.jpg)
+![ss](https://github.com/bngky/ra-univ-vpn/blob/main/Screenshot_20211020_173107.jpg)
 
 # THANKS TO
 
